@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install -y python3.7 python3-pip virtualenv build-essential tk-dev libncurses5-dev libncursesw5-dev libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev libexpat1-dev liblzma-dev zlib1g-dev libgeos-dev libxml2 libffi-dev libssl-dev
+sudo apt-get install -y python3.7 python3-pip virtualenv build-essential tk-dev libncurses5-dev libncursesw5-dev libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev libexpat1-dev liblzma-dev zlib1g-dev libgeos-dev libxml2 libffi-dev libssl-dev elpa-elpy
 
 # pip for python3.7
 curl https://bootstrap.pypa.io/get-pip.py | sudo -H python3.7
