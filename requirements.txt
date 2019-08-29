@@ -106,7 +106,7 @@ tzwhere==3.0.3
 urllib3>=1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug>=0.15.3
 widgetsnbextension==3.4.2
 wstools==0.4.8
 wstools-py3==0.54.4
