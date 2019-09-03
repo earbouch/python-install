@@ -21,5 +21,5 @@ source "$HOME"/.local/bin/virtualenvwrapper.sh
 
 mkvirtualenv 3.7 -p python3.7 -r "$PWD"/requirements.txt
 
-echo "done with python-insntall !"
+echo "done with python-install !"
 
