@@ -5,7 +5,7 @@ sudo apt-get install -y python3.7 python3-pip virtualenv build-essential tk-dev 
 # pip for python3.7
 curl https://bootstrap.pypa.io/get-pip.py | sudo -H python3.7
     
-python3.7 -m pip install --user virtualenvwrapper
+python3.7 -m pip install --user virtualenvwrapper numpy scipy
 
 export PATH=$PATH:"$HOME"/.local/bin
 export WORKON_HOME="$HOME"/venvs
