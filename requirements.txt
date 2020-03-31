@@ -94,7 +94,7 @@ SOAPpy==0.12.22
 SOAPpy-py3==0.52.24
 soupsieve==1.7
 tensorboard==1.12.2
-tensorflow==1.15.0
+tensorflow==1.15.2
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
